@@ -1,5 +1,5 @@
 {
-  "name": "@graphile/pg-pubsub",
+  "name": "@chronograph-pe/pg-pubsub",
   "version": "4.4.1-alpha.0",
   "description": "Subscriptions plugin for PostGraphile using PostgreSQL's LISTEN/NOTIFY",
   "main": "dist/index.js",

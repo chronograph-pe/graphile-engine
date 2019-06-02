@@ -1,5 +1,5 @@
 {
-  "name": "@graphile/lds",
+  "name": "@chronograph-pe/lds",
   "version": "4.4.1-alpha.0",
   "description": "Logical decoding server for PostgreSQL, monitors for new/edited/deleted rows and announces them to interested clients.",
   "main": "dist/index.js",
