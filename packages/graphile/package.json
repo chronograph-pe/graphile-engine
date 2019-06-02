@@ -19,5 +19,6 @@
   "homepage": "https://www.graphile.org",
   "files": [
     "index.js"
-  ]
+  ],
+  "gitHead": "ddfb3faee26b4cdb2af030a4638f4f6e52c81b4b"
 }

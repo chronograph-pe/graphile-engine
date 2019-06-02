@@ -38,9 +38,9 @@
     "node": ">=8.6"
   },
   "devDependencies": {
-    "eslint_d": "^7.3.0",
     "@chronograph-pe/graphile-build": "latest",
     "@chronograph-pe/graphile-build-pg": "latest",
+    "eslint_d": "^7.3.0",
     "jest": "^24.8.0",
     "prettier": "^1.17.0",
     "ts-node": "^8.1.0",
@@ -57,5 +57,5 @@
   "files": [
     "node8plus"
   ],
-  "gitHead": "b98746a0c4e7e290e21b191cc244fcce2a8b2cad"
+  "gitHead": "ddfb3faee26b4cdb2af030a4638f4f6e52c81b4b"
 }
