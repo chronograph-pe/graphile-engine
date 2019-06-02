@@ -1,6 +1,6 @@
 {
   "name": "@chronograph-pe/graphile",
-  "version": "4.1.0",
+  "version": "4.4.1-rc",
   "scripts": {
     "watch": "sleep 1000000000",
     "test": "true",

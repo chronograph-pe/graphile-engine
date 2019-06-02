@@ -1,6 +1,6 @@
 {
   "name": "@chronograph-pe/postgraphile-core",
-  "version": "4.4.1",
+  "version": "4.4.1-rc",
   "description": "",
   "main": "node8plus/index.js",
   "scripts": {
