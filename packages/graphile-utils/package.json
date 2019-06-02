@@ -1,6 +1,6 @@
 {
   "name": "@chronograph-pe/graphile-utils",
-  "version": "4.4.1",
+  "version": "4.4.1.1",
   "description": "Utilities to help with building graphile-build plugins",
   "main": "node8plus/index.js",
   "types": "node8plus/index.d.ts",
@@ -57,5 +57,5 @@
   "files": [
     "node8plus"
   ],
-  "gitHead": "ddfb3faee26b4cdb2af030a4638f4f6e52c81b4b"
+  "gitHead": "0e9dfe3eb3ba66238376a09d1fd4a3edf5f85e29"
 }
