@@ -30,11 +30,11 @@
   },
   "homepage": "https://graphile.org/graphile-build/",
   "dependencies": {
+    "@chronograph-pe/graphql-parse-resolve-info": "latest",
     "@graphile/lru": "4.4.1-alpha.2",
     "@types/graphql": "^14.2.0",
     "chalk": "^2.4.2",
     "debug": "^4.1.1",
-    "graphql-parse-resolve-info": "4.4.1-alpha.1",
     "lodash": ">=4 <5",
     "lru-cache": "^5.0.0",
     "pluralize": "^7.0.0",

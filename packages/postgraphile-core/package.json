@@ -21,8 +21,8 @@
   },
   "dependencies": {
     "@types/graphql": "^14.2.0",
-    "graphile-build": "4.4.1-alpha.2",
-    "graphile-build-pg": "4.4.1"
+    "@chronograph-pe/graphile-build": "latest",
+    "@chronograph-pe/graphile-build-pg": "latest"
   },
   "devDependencies": {
     "@types/node": "^12.0.0",

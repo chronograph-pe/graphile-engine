@@ -39,8 +39,8 @@
   },
   "devDependencies": {
     "eslint_d": "^7.3.0",
-    "graphile-build": "4.4.1-alpha.2",
-    "graphile-build-pg": "4.4.1",
+    "@chronograph-pe/graphile-build": "latest",
+    "@chronograph-pe/graphile-build-pg": "latest",
     "jest": "^24.8.0",
     "prettier": "^1.17.0",
     "ts-node": "^8.1.0",
